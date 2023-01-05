@@ -8,7 +8,7 @@
 Site desenvolvido com base no curso HTML5 e CSS3 parte 1 e parte 2, na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi consolidar os conhecimentos iniciais de HTML5 e CSS3. <br>
     Com base nesses conhecimentos desenvolvidos, criei a página "**Pizzaria Alura**". 
 
-<img style="max-with: 1000px" src="blob:https://giphy.com/f5adf1bd-d92f-470f-a5c7-d29ddd2a75ef"/>
+<img style="max-with: 1000px" src="https://media1.giphy.com/media/fJqeLc3es6HEpWwqc8/giphy.gif?cid=790b76116f078eb7060549d40129ed962d3984765052b267&rid=giphy.gif&ct=g"/>
 
     
 
